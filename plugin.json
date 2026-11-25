@@ -1,0 +1,17 @@
+{
+  "name": "antigravity-aura",
+  "displayName": "Antigravity-Aura",
+  "version": "0.1.5",
+  "description": "Aura 桌面应用工作约定、Aura MCP 诊断、受保护蓝图读取、Unreal 资产工作流与 Aura 对话管理技能。",
+  "author": {
+    "name": "RookieLouis",
+    "url": "https://github.com/RookieLouis"
+  },
+  "repository": "https://github.com/RookieLouis/Antigravity-Aura",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "检查 Aura MCP 和权限",
+    "查看 Aura 对话",
+    "解释这个蓝图"
+  ]
+}

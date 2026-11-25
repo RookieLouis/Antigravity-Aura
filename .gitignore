@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.log
+mcp_config.json
+config.local.json
+.env
+.env.*
